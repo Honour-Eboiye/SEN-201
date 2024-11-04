@@ -1,1 +1,1 @@
-print("HELLO WORLDGIT ")
+print("HELLO WORLD")
